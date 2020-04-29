@@ -39,6 +39,7 @@ public class Main {
         System.out.println("CustomComparatorTwo  " + intNumbers);
         Collections.sort(intNumbers, new CustomComparatorThree());    // числа больше 100 в убывающем порядке
         System.out.println("CustomComparatorThree" + intNumbers);
+        System.out.println(" the End");
 
 
 
